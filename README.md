@@ -1,5 +1,7 @@
 # "Hello super stars! We're just starting..." 
 
+>## Every team members can contribute by creating PR or commenting, please don't change anything directly without discussion. Thanks!!
+
 <!-- prettier-ignore-start -->
 <!-- start_toc -->
 | Section |  |
