@@ -8,6 +8,6 @@
 | [Our Work Arts](/arts/#readme) | The "Arts" from our work/growth. |
 | [Our Culture](/culture#readme) | Why are we here? |
 | [Our Knowledge Resources](/resources#readme) | Collections of readings/practices/researchs. |
-| [Our Visions](/plans#readme) | Yep, please always show us your visions. |
+| [Our Visions](/visions#readme) | Yep, please always show us your visions. |
 <!-- end_toc -->
 <!-- prettier-ignore-end -->
