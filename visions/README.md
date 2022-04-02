@@ -1,6 +1,4 @@
-# "I see how you see, 
-# You see how I see, 
-# We see our WIN"
+# "I see how you see, You see how I see, We see our WIN"
 
 ## PROducible PROduct PROmo
 
