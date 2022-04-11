@@ -11,5 +11,6 @@
 | Crypto  exchange apps for VN market with TSS digital signature | Crypto payment |
 | Buy/sell **ANYTHING, ANYONE,** anywhere, anytime platform with blockchain core | Crypto e-commerce |
 | Micro-work/task/pay for software development | Outsourcing |
+| Collection of steps to use popular tools | Automation tool |
 <!-- end_toc -->
 <!-- prettier-ignore-end -->
