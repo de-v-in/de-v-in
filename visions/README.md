@@ -12,5 +12,6 @@
 | Buy/sell **ANYTHING, ANYONE,** anywhere, anytime platform with blockchain core | Crypto e-commerce |
 | Micro-work/task/pay for software development | Outsourcing |
 | Collection of steps to use popular tools | Automation tool |
+| Software Market for Asian | E-commerce |
 <!-- end_toc -->
 <!-- prettier-ignore-end -->
