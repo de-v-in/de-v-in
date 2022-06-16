@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="ezsyfi" fetch="git@github.com:ezsyfi" />
+
+    <default 
+        revision="dev"
+        remote="ezsyfi"
+        sync-j="4" />
+
+    <project name="keystone" path="." />
+
+    <!-- client side -->
+    <project name="gmp" path="../gmp" />
+    <project name="ezsy_facetec" path="../ezsy_facetec" />
+    <project name="newyorkcity_tss" path="../newyorkcity_tss" />
+    <project name="newyorkcity_tss_client" path="../newyorkcity_tss_client" />
+    <project name="ezsywallet" path="../ezsywallet" />
+
+    <!-- server side -->
+    <project name="hochiminhcity" path="../hochiminhcity" />
+    <project name="newyorkcity_tss_server" path="../newyorkcity_tss_server" />
+
+</manifest>
