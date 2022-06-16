@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="ezsyfi" fetch="git@github.com:ezsyfi" />
+    <remote name="de-v-in" fetch="https://github.com/de-v-in" />
 
     <default 
-        revision="dev"
-        remote="ezsyfi"
+        revision="main"
+        remote="de-v-in"
         sync-j="4" />
 
-    <project name="keystone" path="." />
 
     <!-- client side -->
-    <project name="gmp" path="../gmp" />
-    <project name="ezsy_facetec" path="../ezsy_facetec" />
-    <project name="newyorkcity_tss" path="../newyorkcity_tss" />
-    <project name="newyorkcity_tss_client" path="../newyorkcity_tss_client" />
-    <project name="ezsywallet" path="../ezsywallet" />
-
-    <!-- server side -->
-    <project name="hochiminhcity" path="../hochiminhcity" />
-    <project name="newyorkcity_tss_server" path="../newyorkcity_tss_server" />
-
+    <project name="de-v-in" path="../de-v-in" />
+    <project name="outsource-infras" path="../outsource-infras" />
+    <project name="portfolio" path="../portfolio" />
+    <project name="solancer" path="../solancer" />
 </manifest>
